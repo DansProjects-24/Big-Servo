@@ -1,4 +1,4 @@
 # Big-Servo
 This is my Big 3D Printable Servo  
-A STEP file is available to download [here](CAD)  
-And all the STLs are zipped up [here](CAD/STLs.zip)  
+A STEP file of the full assembly and all the STLs are available to download [here](CAD)  
+  
